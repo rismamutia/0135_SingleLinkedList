@@ -30,7 +30,10 @@ class List
 
         if (START == NULL || nim <= START->noMhs)
         {
-            
+            if ((START != NULL) && (nim == START->noMhs))
+            {
+                
+            }
         }
     }
 }
