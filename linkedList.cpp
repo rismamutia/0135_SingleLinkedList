@@ -12,4 +12,10 @@ class Node
 class List
 {
     Node *START;
+
+ public:
+    List()
+    {
+        START = NULL;
+    }
 }
