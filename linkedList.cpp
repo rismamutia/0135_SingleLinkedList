@@ -11,5 +11,5 @@ class Node
 
 class List
 {
-    
+    Node *START;
 }
